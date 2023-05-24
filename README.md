@@ -4,8 +4,8 @@
 <p>🐱 I like Sci-Fi, D&D, Technology & Cats!</p>
 
 ## Recent Projects:
+- [Interactive Pokewalker](https://codepen.io/mariawarnes/pen/wvYRPEr) - An Interactive Pokewalker, recreated in HTML, CSS & JS.
 - [Firewatch Prologue](https://codepen.io/mariawarnes/pen/KKxQLer) - The Prologue from the game Firewatch, recreated in HTML, CSS & JS.
-- [NanoSlider](https://github.com/mariawarnes/NanoSlider) - A minimalistic JavaScript library for creating responsive carousels.
 
 ## Languages:
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square&link=)
