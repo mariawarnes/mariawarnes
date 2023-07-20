@@ -9,13 +9,19 @@
 - [Firewatch Prologue](https://codepen.io/mariawarnes/pen/KKxQLer) - The Prologue from the game Firewatch, recreated in HTML, CSS & JS.
 
 ## Currently Learning:
-![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square) with ![codecademy](https://img.shields.io/static/v1?logo=codecademy&label=&message=Codecademy&color=36465D&logoColor=AAA&style=flat-square)</br>
-![figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square) with ![udemy](https://img.shields.io/static/v1?logo=udemy&label=&message=Udemy&color=36465D&logoColor=AAA&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=%20&color=36465D&logoColor=AAA&style=flat-square)![codecademy](https://img.shields.io/static/v1?logo=codecademy&label=&message=Create%20a%20Front-end%20App%20with%20React%20-%2039%&color=36465D&logoColor=AAA&style=flat-square)
+</br>
+![figma](https://img.shields.io/static/v1?logo=figma&label=&message=%20&color=36465D&logoColor=AAA&style=flat-square)![udemy](https://img.shields.io/static/v1?logo=udemy&label=&message=Complete%20Figma%20Megacourse:%20UI/UX%20Design%20Beginner%20to%20Expert%20-%205%&color=36465D&logoColor=AAA&style=flat-square)
+</br>
+![react](https://img.shields.io/static/v1?logo=express&label=&message=%20&color=36465D&logoColor=AAA&style=flat-square)![codecademy](https://img.shields.io/static/v1?logo=codecademy&label=&message=Full-Stack%20Engineer%20-%2016%&color=36465D&logoColor=AAA&style=flat-square)
 #### Want to learn next:
 ![tailwind](https://img.shields.io/static/v1?logo=css3&label=&message=Tailwind&color=36465D&logoColor=AAA&style=flat-square)
 ![firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=36465D&logoColor=AAA&style=flat-square)
-![webpack](https://img.shields.io/static/v1?logo=webpack&label=&message=Webpack&color=36465D&logoColor=AAA&style=flat-square)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square)
+![redux](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=36465D&logoColor=AAA&style=flat-square)
+![express](https://img.shields.io/static/v1?logo=express&label=&message=Express.js&color=36465D&logoColor=AAA&style=flat-square)
+![postgresql](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
+![dart](https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=36465D&logoColor=AAA&style=flat-square)
+![flutter](https://img.shields.io/static/v1?logo=flutter&label=&message=Flutter&color=36465D&logoColor=AAA&style=flat-square)
 
 ## Languages:
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
