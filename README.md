@@ -9,11 +9,13 @@
 - [Firewatch Prologue](https://codepen.io/mariawarnes/pen/KKxQLer) - The Prologue from the game Firewatch, recreated in HTML, CSS & JS.
 
 ## Currently Learning:
-![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square)
+![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square) with ![codecademy](https://img.shields.io/static/v1?logo=codecademy&label=&message=Codecademy&color=36465D&logoColor=AAA&style=flat-square)</br>
+![figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square) with ![udemy](https://img.shields.io/static/v1?logo=udemy&label=&message=Udemy&color=36465D&logoColor=AAA&style=flat-square)
+#### Want to learn next:
+![tailwind](https://img.shields.io/static/v1?logo=css3&label=&message=Tailwind&color=36465D&logoColor=AAA&style=flat-square)
 ![firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=Firebase&color=36465D&logoColor=AAA&style=flat-square)
 ![webpack](https://img.shields.io/static/v1?logo=webpack&label=&message=Webpack&color=36465D&logoColor=AAA&style=flat-square)
-![figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square)
-![pug](https://img.shields.io/static/v1?logo=pug&label=&message=Pug&color=36465D&logoColor=AAA&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square)
 
 ## Languages:
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
