@@ -31,6 +31,10 @@
 **🎓 Next:**
 <table>
   <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.codecademy.com/learn/learn-intermediate-type-script">TypeScript</a></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/static/v1?logo=flutter&label=&message=Flutter&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=36465D&logoColor=AAA&style=flat-square"></td>
     <td><a href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps">Flutter & Dart - The Complete Guide</a></td>
   </tr>
