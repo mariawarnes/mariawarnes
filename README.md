@@ -1,21 +1,45 @@
-**👋 Hello, I'm Maria!**
+**👋 Hello, I'm Maria! (she/her)**
 
-I'm a Front-End Web Developer with a strong design background, passionate about creating accessible and inclusive experiences. My pronouns are she/her. 
+I'm a User Advocate and Front-End Web Developer with a strong design background, passionate about creating accessible and inclusive experiences. 
 
 **🔨 Recent Projects:**
 - [Interactive Pokewalker](https://codepen.io/mariawarnes/pen/wvYRPEr) - An Interactive Pokewalker, recreated in HTML, CSS & JS.
 - [Firewatch Prologue](https://codepen.io/mariawarnes/pen/KKxQLer) - The Prologue from the game Firewatch, recreated in HTML, CSS & JS.
 
 **📚 Currently Learning:**
-| ![js](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JS&color=36465D&logoColor=AAA&style=flat-square)![react](https://img.shields.io/static/v1?logo=react&label=&message=%20React&color=36465D&logoColor=AAA&style=flat-square) | [ Create a Front-End App with React](https://www.codecademy.com/paths/build-web-apps-with-react) | ███░░░░ 47% |
-|---|---|---|
-| ![js](https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=36465D&logoColor=AAA&style=flat-square)![js](https://img.shields.io/static/v1?logo=postgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)![js](https://img.shields.io/static/v1?logo=nodejs&label=&message=NodeJS&color=36465D&logoColor=AAA&style=flat-square) | [Full-Stack Engineer](https://www.codecademy.com/career-journey/full-stack-engineer) | █░░░░░░ 17% |
-| ![js](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square) | [Complete Figma Megacourse: UI/UX Design Beginner to Expert](https://www.udemy.com/course/beginners-guide-to-prototyping-and-designing-using-figma/) | ▒░░░░░░ 5% |
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=JavaScript&label=&message=JS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.codecademy.com/paths/build-web-apps-with-react">Create a Front-End App with React</a></td>
+    <td>███░░░░ 47%</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=postgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=express&label=&message=Express.js&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.codecademy.com/career-journey/full-stack-engineer">Full-Stack Engineer</a></td>
+    <td>█░░░░░░ 17%</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.udemy.com/course/beginners-guide-to-prototyping-and-designing-using-figma/">Complete Figma Megacourse: UI/UX Design Beginner to Expert</a></td>
+    <td>▒░░░░░░ 5%</td>
+  </tr>
+</table>
 
-**🎓 To Do:**
-- 
 
-**🚀 Tech Stack & Skills:**
+**🎓 Next:**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=flutter&label=&message=Flutter&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps">Flutter & Dart - The Complete Guide</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=linux&label=&message=Linux&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=amazonaws&label=&message=AWS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=jenkins&label=&message=Jenkins&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=ansible&label=&message=Ansible&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.udemy.com/course/decodingdevops">DevOps Beginner to Advanced</a></td>
+  </tr>
+</table>
+
+
+**🚀 Experience:**
 - Languages: ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![css](https://img.shields.io/static/v1?logo=css3&label=&message=CSS&color=36465D&logoColor=AAA&style=flat-square&link=)
