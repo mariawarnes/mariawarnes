@@ -1,6 +1,8 @@
 **👋 Hello, I'm Maria! (she/her)**
-
-I'm a User Advocate and Front-End Web Developer with a strong design background, passionate about creating accessible and inclusive experiences. 
+- User Advocate
+- Front-End Web Developer
+- Design background
+- Passionate about accessibility and inclusivity
 
 **🔨 Recent Projects:**
 - [Interactive Pokewalker](https://codepen.io/mariawarnes/pen/wvYRPEr) - An Interactive Pokewalker, recreated in HTML, CSS & JS.
