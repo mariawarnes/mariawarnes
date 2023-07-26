@@ -13,7 +13,7 @@
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=JavaScript&label=&message=JS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square"></td>
     <td><a href="https://www.codecademy.com/paths/build-web-apps-with-react">Create a Front-End App with React</a></td>
-    <td>███░░░░ 47%</td>
+    <td>███▓░░░ 53%</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=postgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=express&label=&message=Express.js&color=36465D&logoColor=AAA&style=flat-square"></td>
@@ -30,6 +30,10 @@
 
 **🎓 Next:**
 <table>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.udacity.com/course/web-accessibility--ud891">Web Accessibility</a></td>
+  </tr>
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square"></td>
     <td><a href="https://www.codecademy.com/learn/learn-intermediate-type-script">TypeScript</a></td>
