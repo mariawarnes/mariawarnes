@@ -13,30 +13,32 @@
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=JavaScript&label=&message=JS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square"></td>
     <td><a href="https://www.codecademy.com/paths/build-web-apps-with-react">Create a Front-End App with React</a></td>
-    <td>████░░░ 60%</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=postgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=express&label=&message=Express.js&color=36465D&logoColor=AAA&style=flat-square"></td>
-    <td><a href="https://www.codecademy.com/career-journey/full-stack-engineer">Full-Stack Engineer</a></td>
-    <td>█░░░░░░ 17%</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square"></td>
-    <td><a href="https://www.udemy.com/course/beginners-guide-to-prototyping-and-designing-using-figma/">Complete Figma Megacourse: UI/UX Design Beginner to Expert</a></td>
-    <td>▒░░░░░░ 5%</td>
+    <td>████▒░░ 64%</td>
   </tr>
 </table>
 
 
 **🎓 Next:**
 <table>
+    <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=vuedotjs&label=&message=Vue&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.codecademy.com/learn/learn-vue-js">Learn Vue.js</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.codecademy.com/learn/learn-intermediate-type-script">TypeScript</a></td>
+  </tr>
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=html5&label=&message=HTML&color=36465D&logoColor=AAA&style=flat-square"></td>
     <td><a href="https://www.udacity.com/course/web-accessibility--ud891">Web Accessibility</a></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=36465D&logoColor=AAA&style=flat-square"></td>
-    <td><a href="https://www.codecademy.com/learn/learn-intermediate-type-script">TypeScript</a></td>
+    <td><img src="https://img.shields.io/static/v1?logo=redux&label=&message=Redux&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=postgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=nodedotjs&label=&message=NodeJS&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=express&label=&message=Express.js&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.codecademy.com/career-journey/full-stack-engineer">Full-Stack Engineer</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square"></td>
+    <td><a href="https://www.udemy.com/course/beginners-guide-to-prototyping-and-designing-using-figma/">Complete Figma Megacourse: UI/UX Design Beginner to Expert</a></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=flutter&label=&message=Flutter&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=36465D&logoColor=AAA&style=flat-square"></td>
