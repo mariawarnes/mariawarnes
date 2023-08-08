@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square"><img src="https://img.shields.io/static/v1?logo=Redux&label=&message=Redux&color=36465D&logoColor=AAA&style=flat-square"></td>
-    <td><a href="https://www.codecademy.com/enrolled/paths/advanced-react-redux-sp">Create an Advanced Web App with React and Redux</td>
+    <td><a href="https://www.codecademy.com/learn/paths/advanced-react-redux-sp">Create an Advanced Web App with React and Redux</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/static/v1?logo=vuedotjs&label=&message=Vue&color=36465D&logoColor=AAA&style=flat-square"></td>
