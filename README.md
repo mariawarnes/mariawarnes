@@ -41,8 +41,6 @@
 
 **🔧 Other Experience:**
 
-Animation: ![three](https://img.shields.io/static/v1?logo=threedotjs&label=&message=Three.js&color=36465D&logoColor=AAA&style=flat-square&link=) 
-
 Testing: ![reacttestinglib](https://img.shields.io/static/v1?logo=testinglibrary&label=&message=React%20Testing%20Library&color=36465D&logoColor=AAA&style=flat-square&link=) ![jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=36465D&logoColor=AAA&style=flat-square&link=) ![cypress](https://img.shields.io/static/v1?logo=cypress&label=&message=Cypress&color=36465D&logoColor=AAA&style=flat-square&link=) 
 
 Design: ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=Figma&color=36465D&logoColor=AAA&style=flat-square&link=) ![photoshop](https://img.shields.io/static/v1?logo=adobe&label=&message=Photoshop&color=36465D&logoColor=AAA&style=flat-square&link=) ![illustrator](https://img.shields.io/static/v1?logo=adobe&label=&message=Illustrator&color=36465D&logoColor=AAA&style=flat-square&link=)  ![indesign](https://img.shields.io/static/v1?logo=adobe&label=&message=InDesign&color=36465D&logoColor=AAA&style=flat-square&link=) 
